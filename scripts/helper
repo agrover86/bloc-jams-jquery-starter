@@ -1,0 +1,4 @@
+class Helper{
+
+}
+let helper = new Helper();
